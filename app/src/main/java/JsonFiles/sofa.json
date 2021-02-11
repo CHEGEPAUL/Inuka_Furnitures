@@ -1,0 +1,60 @@
+{
+  "sofa": [
+    {
+      "title": "Brown leather couch",
+      "url": "https://www.pexels.com/photo/2-seat-orange-leather-sofa-beside-wall-1866149/",
+      "description": "Kenyan made brown leather couch",
+      "contacts": ",+2547037172772",
+      "price":35000
+       
+    },{
+      "title": "White 2 piecer couch",
+      "url": "https://www.pexels.com/photo/beige-3-seat-sofa-276528/",
+      "description": "White fully coated Couch",
+      "contacts":" +2547037172772",
+      "price":50000
+   },{
+      "title": "Arm chairs",
+      "url": "https://www.pexels.com/photo/two-suede-armchairs-923192/",
+      "description": "Two Pseude Armchairs",
+      "contacts": ",+2547037172772",
+      "price":10000 },
+    {
+      "title": "Fabric chase luonge",
+      "url": "https://www.pexels.com/photo/red-throw-pillow-on-gray-fabric-chaise-lounge-near-gray-window-curtain-133919/",
+      "description": "Fabri Chase luonge near a gray window",
+      "contacts": ",+2547037172772",
+      "price":10000 },
+    {
+    "title":"White and brown arm chair",
+    "url":"https://www.pexels.com/photo/red-throw-pillow-on-gray-fabric-chaise-lounge-near-gray-window-curtain-133919/",
+    "description":"White and Brown armchair",
+    "contacts":"+254703172772",
+    "price":"7500"},
+   {
+   "title":"Black chair",
+    "url":"https://www.pexels.com/photo/black-chair-beside-green-palm-plant-6707629/",
+    "description":"Black comfortable chair",
+    "contacts":"+254703172772",
+    "price":"7500"},
+   {
+   "title":"Black leather sofa",
+    "url":"https://www.pexels.com/photo/weathered-black-leather-sofa-in-light-room-6045043/",
+    "description":"Black leather chair",
+    "contacts":"+254703172772",
+    "price":"10000"},
+   {
+    "title":"White  leather sofa",
+    "url":"https://www.pexels.com/photo/white-pillow-on-white-leather-sofa-945669/",
+    "description":"White pillow on a white leather couch",
+    "contacts":"+254703172772",
+    "price":"20000"},
+     {
+    "title":"White couch",
+    "url":"https://www.pexels.com/photo/photo-of-white-couch-on-wooden-floor-3757055/",
+    "description":"White stylish couch on a wooden floor",
+    "contacts":"+254703172772",
+    "price":"25000"}
+ 
+  ]
+}

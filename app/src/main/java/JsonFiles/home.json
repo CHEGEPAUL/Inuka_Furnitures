@@ -1,0 +1,74 @@
+{
+  "home": [
+    {
+      "title": "Brown wooden dining table and chairs",
+      "url": "pexels.com/photo/black-kettle-beside-condiment-shakers-and-green-fruits-and-plants-on-tray-on-brown-wooden-table-1080696/",
+      "description": "Brown dining table and chair",
+      "contacts": "+2547037172772",
+      "price":35000
+       
+    },{
+      "title": "Wooden dining table and chairs",
+      "url": "https://www.pexels.com/photo/old-house-room-interior-with-furniture-under-lamp-4846574/",
+      "description": "Brown dining table and chair under a lamp",
+      "contacts": "+2547037172772",
+      "price":30000
+       
+    },{
+      "title": "Wooden dining table and chairs",
+      "url": "https://www.pexels.com/photo/old-house-room-interior-with-furniture-under-lamp-4846574/",
+      "description": "Brown dining table and chair under a lamp",
+      "contacts": "+2547037172772",
+      "price":30000
+       
+    },{
+      "title": "Bookcase and a lamp",
+      "url": "https://www.pexels.com/photo/room-interior-with-bookcase-and-lamp-on-floor-6135340/",
+      "description": "Bookcase with a lamp on the floor",
+      "contacts": "+2547037172772",
+      "price":15000
+    },{
+     "title": "Modern vase ",
+      "url": "https://www.pexels.com/photo/stylish-and-modern-composition-with-vase-and-bookend-4207788/",
+      "description": "Modern vase with a bookend",
+      "contacts": "+2547037172772",
+      "price":25000
+    },{
+      "title": "Interior furniture",
+      "url": "https://www.pexels.com/photo/contemporary-room-interior-with-furniture-and-carpet-on-floor-5417293/",
+      "description": "Interior furniture with a carpet on the floor",
+      "contacts": "+2547037172772",
+      "price":65000
+    },{
+      "title": "Kitchen stools",
+      "url": "https://www.pexels.com/photo/four-gray-bar-stools-in-front-of-kitchen-countertop-279648/",
+      "description": "Four Kitchen stools infront of kitchen",
+      "contacts": "+2547037172772",
+      "price":20000
+   },{
+     "title": "Kitchen stools",
+      "url": "https://www.pexels.com/photo/four-brown-wooden-chairs-2635038/",
+      "description": "Four Brown wooden stools",
+      "contacts": "+2547037172772",
+      "price":10000
+  },{
+    "title": "Bed",
+     "url": "https://www.pexels.com/photo/poodle-lying-on-comfortable-bed-3554424/",
+     "description": "Poodle lying on a wooden bed",
+     "contacts": "+2547037172772",
+     "price":10000
+ },
+{    "title": "Furniture for a living room",
+     "url": "https://www.pexels.com/photo/architectural-design-of-a-rustic-living-room-4099299/",
+     "description": "Furniture for a living room",
+     "contacts": "+2547037172772",
+     "price":100000
+ },{
+     "title": "Home Furniture",
+     "url": "https://www.pexels.com/photo/three-gray-ornaments-on-white-wooden-desk-inside-living-room-1571470/",
+     "description": "Three gay ornaments on white wooden desk inside a livng room",
+     "contacts": "+2547037172772",
+     "price":100000
+} 
+  ]
+}

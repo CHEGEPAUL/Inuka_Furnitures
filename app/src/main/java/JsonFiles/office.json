@@ -1,0 +1,48 @@
+{
+  "office": [
+    {
+      "title": "Office chair and desk",
+      "url": "https://www.pexels.com/photo/white-rolling-armchair-beside-table-1957478/",
+      "description": "Office Chair and Desk",
+      "contacts": "+2547037172772",
+      "price":35000
+       
+    },{
+     "title": "Gray Cubicles",
+      "url": "https://www.pexels.com/photo/gray-wooden-computer-cubicles-inside-room-267507/",
+      "description": "White gray cubicles inside a white room",
+      "contacts": "+2547037172772",
+      "price":35000
+   },{
+      "title": "White cubicles",
+      "url": "https://www.pexels.com/photo/white-cubicle-with-rolling-chairs-273671/",
+      "description": "White cubicles with rolling chairs",
+      "contacts": "+2547037172772",
+      "price":30000
+   },{
+      "title": "Office fullset",
+      "url": "https://www.pexels.com/photo/black-study-lamp-on-black-table-159839/",
+      "description": "Black study lamp on a blact table",
+      "contacts": "+2547037172772",
+      "price":38000
+   },{
+      "title": "Modern set",
+      "url": "https://www.pexels.com/photo/black-study-lamp-on-black-table-159839/",
+      "description": "Modern computer placed in a table in office with curtains",
+      "contacts": "+2547037172772",
+      "price":33000
+   },{
+      "title": "Modern set",
+      "url": "https://www.pexels.com/photo/black-study-lamp-on-black-table-159839/",
+      "description": "Modern computer placed in a table in office with curtains",
+      "contacts": "+2547037172772",
+      "price":33000
+ },{
+      "title": "Conference furniture",
+      "url": "https://www.pexels.com/photo/white-wooden-rectangular-table-159213/",
+      "description": "White wooden rectangular table with chairs",
+      "contacts": "+2547037172772",
+      "price":40000
+  }
+  ]
+}
